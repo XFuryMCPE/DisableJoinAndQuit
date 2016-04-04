@@ -1,0 +1,8 @@
+name: DisableJoinAndQuit
+main: DisableJoinAndQuit\Main
+version: 1.0.0
+api: [1.2.0]
+
+load: POSTWORLD
+authors: Syntaxious
+description: Disables Join and Quit messages!
