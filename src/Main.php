@@ -15,11 +15,11 @@ class Main extends PluginBase implements Listener{
     }
    
     public function onJoin(PlayerJoinEvent $event){
-        $event->setJoinMessage("");
+        $event->setJoinMessage(null);
     }
    
     public function onQuit(PlayerQuitEvent $event){
-        $event->setQuitMessage("");
+        $event->setQuitMessage(null);
     }
 }
 
