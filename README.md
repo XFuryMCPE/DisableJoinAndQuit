@@ -1,2 +1,2 @@
 # DisableJoinAndMsg
-Disables Join amd Quit messages!
+Disables Join and Quit messages!
